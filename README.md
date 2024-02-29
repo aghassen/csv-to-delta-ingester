@@ -23,3 +23,5 @@ Run the following commands in your terminal to:
       * Solution: Used image 'rangareddy1988/spark-history-server' as a Spark history server
 
 3- Solution's Diagram on AWS:
+
+![solution diagram 3](https://github.com/aghassen/csv-to-delta-ingester/assets/96908558/6494dd1e-7f7f-4229-a148-b5ae20fbfc9d)
