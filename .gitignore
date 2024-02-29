@@ -1,0 +1,9 @@
+# Ignore compiled Python files
+*.pyc
+# Ignore virtual environment directories
+venv/
+# Ignore IDE specific files
+.idea/
+/.pytest_cache/
+/spark_history_logs/
+/logs/

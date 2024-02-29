@@ -1,0 +1,10 @@
+spark:
+  app_name: "spark_csv_converter"   # Spark application name
+
+data:
+  input_path: "./data/input_file_with_header.csv"   # Path to input data file
+  output_delta_table_path: "./delta_table_sink" # Path to output delta table
+
+csv:
+  header: "True" # Does input data has header or not
+
